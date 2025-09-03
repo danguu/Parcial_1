@@ -46,7 +46,7 @@ gcc lex.yy.c calc.tab.c -o calc -lm
 
 ## Pregunta 4
 
-**Comparación rendimiento compilado vs interpretado** usando Fibonacci 
+**Comparación rendimiento compilado vs interpretado** 
 * **C compilado:** `fib.c`
 
 ```bash
@@ -59,6 +59,8 @@ time ./fib
 ```bash
 time python3 fib.py
 ```
+<img width="756" height="329" alt="image" src="https://github.com/user-attachments/assets/f67ac920-94c3-4818-9a9f-22d1889b01af" />
+
 
 **Observación:** C es más rápido porque es compilado, Python más lento porque es interpretado.
 
