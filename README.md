@@ -8,7 +8,7 @@
 ```bash
 python3 afd_abc.py
 ```
-Pruebas incluidas en el código.
+<img width="802" height="177" alt="image" src="https://github.com/user-attachments/assets/de181464-bfb0-43a4-9c96-92b072f82707" />
 
 ## Pregunta 2
 
@@ -20,7 +20,8 @@ Pruebas incluidas en el código.
 ```bash
 python3 afd_id.py
 ```
-Ya con las pruebas en el código
+<img width="804" height="153" alt="image" src="https://github.com/user-attachments/assets/8eda57f7-146d-45a9-a4c8-552a7a4a3862" />
+
 
 ## Pregunta 3
 
@@ -82,10 +83,5 @@ antlr4 -Dlanguage=Python3 Fibo.g4
 ```bash
 python3 test.py
 ```
+<img width="856" height="119" alt="image" src="https://github.com/user-attachments/assets/026213da-36b7-4ba2-adea-0129232a524c" />
 
-Ejemplo de uso:
-
-```
-Ingresa operación (ej: FIBO(8)): FIBO(8)
-FIBO( 8 ) = 0, 1, 1, 2, 3, 5, 8, 13
-```
